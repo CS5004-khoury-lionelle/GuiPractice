@@ -12,7 +12,7 @@ For this assignment, you are going to pick one of your previous assignments and 
 
 ## Instructions
 
-You will need to take a previous assignment and convert it into the MVC design pattern. Additionally, you will need to add a GUI to the program, which means this assignment is a culmination of everything you learned up until this point. 
+You will need to take a previous assignment (03, 05, or 07) and convert it into the MVC design pattern. Additionally, you will need to add a GUI to the program, which means this assignment is a culmination of everything you learned up until this point. 
 
 Suggested Parts:
 1. Copy your code from the previous assignment into this repository.  
@@ -57,8 +57,8 @@ Suggested Parts:
 
 Before you start writing, it is important to think about design. You DO NOT have to be perfect in your design, so we will come back to this step a few times. 
 
-1. First, become a detective and read through the files provided. Take notes on what you are seeing.  This is a common skill in software engineering, and you will need to do this often as you work with other people's code. [Report.md](../Report.md) has specific questions on the code that may help you. 
-2. Go to [DesignDocument.md](../DesignDocument.md) and fill out (ONLY) the initial design sections. 
+
+1. Go to [DesignDocument.md](../DesignDocument.md) and fill out (ONLY) the initial design sections. Make sure to start with the end design of whatever assignment you are modifying! 
 
 > [!TIP]
 > You are free  to use mermaid or any other UML tools you want, just make sure if you are using another UML tool, you properly link the image in the markdown file. See the resources page, for a list of [UML tools](https://github.com/CS5004-khoury-lionelle/Resources?tab=readme-ov-file#uml-design-tools).
