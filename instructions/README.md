@@ -156,10 +156,12 @@ Legend:
 * MG - Manually graded
 
 ### Submission Reminder 🚨
-For manually graded elements, we only guarantee time to submit for a regrade IF you submit by the DUE DATE. Submitting late may mean it isn't possible for the MG to be graded before the AVAILABLE BY DATE, removing any windows for you to resubmit in time. While it will be graded, it is always best to submit by the due date, so you have full opportunity to improve your grade.
+For manually graded elements, we only guarantee time to submit for a regrade IF you submit by the DUE DATE. Submitting late may mean it isn't possible for the MG to be graded before the AVAILABLE UNTIL DATE, removing any windows for you to resubmit in time. While it will be graded, it is always best to submit by the due date, so you have full opportunity to improve your grade.
 
 If you need a reminder about the grading policy, please review the syllabus and the canvas page on 'formative/summative' grading. This class uses a unique grading system that will allow you to be flexible with due dates and multiple resubmissions (if you submit with time for TAs to give feedback), but we also ask that you continue to work on the assignment until you get a full grade.
 
+> [!CAUTION]
+> As this is the last assignment, your submission window between due date and available until date may be shorter! Please take that into account. 
 
 ### No Autograder - Still submit to gradescope
 This assignment has no autograder. As such, you will need to make sure you are following the rubric and the instructions. If you have questions, please ask in the Teams channel. The TAs will grade them as they see them, giving feedback as they go.
